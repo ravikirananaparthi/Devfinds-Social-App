@@ -35,6 +35,7 @@ const frontendOrigin = [
   "http://localhost:5173",
   "https://capricon-task.vercel.app",
   "https://devfinds-social-app.vercel.app/",
+  "https://devfinds-social-app-coders.vercel.app/",
 ];
 
 export const io = new Server(server, {
